@@ -1,5 +1,5 @@
 [package]
-name = "controller_messing"
+name = "controller_mouse"
 version = "0.1.0"
 edition = "2021"
 
@@ -8,8 +8,5 @@ edition = "2021"
 [dependencies]
 dual-shock4-controller = "0.1.1"
 enigo = "0.0.14"
-egui = "0.19.0"
 eframe = "0.19.0"
 home = "0.5.3"
-hex = "0.4.3"
-im-rc = "15.1.0"

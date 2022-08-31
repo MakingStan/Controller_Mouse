@@ -9,14 +9,14 @@ Controller Mouse is a project made in rust that allows you to control your mouse
 <img src = "images/controller2.jpg">
 <h2>Get started!</h2>
 <p>
-First off download the controller mouse program for your desired operating system.
+First off <a href = "https://github.com/MakingStan/Controller_Mouse/releases/tag/new">download the controller</a> mouse program for your desired operating system.
 <br>
 <br>
 Connect your dualshock controller and
 try to run the program with the intial pid (product id) and vid(vendor id), These id's are used to identify your controller.
 <br>
 <br>
-If it does not work you'll have to download the <a href = "https://github.com/makingstan/controller_mouse_config">controller_mouse_config</a> program. This program will make you able to adjust the sensivity and the pid & vid
+If it does not work you'll have to download the <a href = "https://github.com/MakingStan/Controller_Mouse_Config/releases/tag/new">controller_mouse_config</a> program. This program will make you able to adjust the sensivity and the pid & vid
 </p>
 
 <h2>How to get your pid & vid</h2>

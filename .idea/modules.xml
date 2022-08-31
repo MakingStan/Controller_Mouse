@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/controller_messing.iml" filepath="$PROJECT_DIR$/controller_messing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controller_mouse.iml" filepath="$PROJECT_DIR$/controller_mouse.iml" />
     </modules>
   </component>
 </project>
